@@ -19,4 +19,7 @@ Además, el sistema incorpora módulos para la administración de citas, cliente
 #Base de Datos
 
 
+<img width="988" height="870" alt="image" src="https://github.com/user-attachments/assets/b77efa93-f520-4a96-bad8-d017c7a5abc3" />
+
+
 
