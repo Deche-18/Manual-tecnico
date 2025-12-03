@@ -149,7 +149,6 @@ Además, el sistema incorpora módulos para la administración de citas, cliente
 #Documentacion de funciones 
 
 
-![download](https://github.com/user-attachments/assets/6d74e3f5-97c8-4adc-b403-4c233ed2d89b)
 
 
 
