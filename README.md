@@ -1,4 +1,4 @@
-<img width="892" height="644" alt="Screenshot 2025-12-03 171307" src="https://github.com/user-attachments/assets/4fb0900f-7ef7-48b2-aa10-678d5e0cead4" /><img width="532" height="117" alt="Screenshot 2025-12-03 170605" src="https://github.com/user-attachments/assets/3c4073df-1e67-4740-bfb6-f1c1949d3461" /># Manual-tecnico-Barber-Royal-Calendario
+# Manual-tecnico-Barber-Royal-Calendario
 --Barber Royal--
 
 Manual Técnico del Software de Barbería Royal:
