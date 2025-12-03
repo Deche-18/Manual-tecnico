@@ -6,6 +6,12 @@ El Software de Barbería Royal es un sistema diseñado para la gestión integral
 
 Además, el sistema incorpora módulos para la administración de citas, clientes y barberos, ofreciendo funcionalidades para la generación de reportes detallados sobre cada uno de estos componentes. Esto facilita el seguimiento operativo, la organización del personal y la toma de decisiones basada en información actualizada.
 
+#Desarolladores involucrados
+
+-Ivan Andres Galeas Murillo
+
+-Alvaro Luis 
+
 #Tecnologias
 
 //C# (.NET 8) – ASP.NET Core MVC 
@@ -138,6 +144,9 @@ Además, el sistema incorpora módulos para la administración de citas, cliente
 ) 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#Documentacion de funciones 
 
 
 
