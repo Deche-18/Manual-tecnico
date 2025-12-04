@@ -41,7 +41,7 @@ Además, el sistema incorpora módulos para la administración de citas, cliente
 
 
 
-#Instalacion rapida 
+ 
 
 #Base de Datos
 
